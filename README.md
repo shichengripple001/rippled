@@ -1,4 +1,4 @@
-[![codecov](https://codecov.io/gh/XRPLF/rippled/graph/badge.svg?token=WyFr5ajq3O)](https://codecov.io/gh/XRPLF/rippled)
+[![codecov](https://codecov.io/gh/XRPLF/rippled/graph/badge.svg?token=WyFr5ajq3O)](https://codecov.io/gh/XRPLF/rippled). 
 
 # The XRP Ledger 
 
